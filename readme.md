@@ -27,7 +27,27 @@
 	- [ ] [Server-Side Rendering with Pug Templates]()
 	- [ ] [Advanced Features Payments, Email, File Uploads]()
 	- [ ] [Setting Up Git and Deployment]()
-
+	
+- [ ] [Node.js CLI | Build Node.js Command-line Automation Dev-tools](https://coursehunter.net/course/node-js-cli-avtomatizaciya-node-cli)
+	- [ ] [Node.js Basic Introduction]()
+	- [ ] [Node + NVM]()
+	- [ ] [Node + NodeENV]()
+	- [ ] [Node + ASDF]()
+	- [ ] [Node + N]()
+	- [ ] [Node.js CLI UX]()
+	- [ ] [Node-Module PKG]()
+	- [ ] [Error Handling]()
+	- [ ] [Theory: Node.js]()
+	- [ ] [Frameworks: Node.js CLI frameworks]()
+	- [ ] [CLI helper]()
+	- [ ] [Data Fetching]()
+	- [ ] [CLI I/O]()
+	- [ ] [CLI Project]()
+	- [ ] [PROD-READY: ncli]()
+	- [ ] [CLI PROJECT: CLI]()
+	- [ ] [CLI Updates]()
+	- [ ] [Debugging]()
+	- [ ] [Unit Testing]()
 
 ## Database Management Systems
 
