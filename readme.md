@@ -1,7 +1,7 @@
 # LEARNING SOFTWARE ENGINEERING
 
-##Learning JavaScript
-###Complete JS Course
+## Learning JavaScript
+### Complete JS Course
 	- [X] [Course Introduction]()
 	- [X] [JavaScript Language Basics]()
 	- [X] [How JavaScript Works Behind the Scenes]()
