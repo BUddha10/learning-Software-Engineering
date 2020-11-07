@@ -30,16 +30,16 @@
 
 
 ## Database Management Systems
-- [ ][MYSQL Tutorial](https://www.mysqltutorial.org/)
-	- [X][Getting Started with MySQL](https://www.mysqltutorial.org/getting-started-with-mysql/)
-	- [X][Basic MySQL Tutorial](https://www.mysqltutorial.org/basic-mysql-tutorial.aspx)
-	- [X][MySQL Stored Procedures](https://www.mysqltutorial.org/mysql-stored-procedure-tutorial.aspx)
-	- [ ][MySQL Triggers](https://www.mysqltutorial.org/mysql-triggers.aspx)
-	- [ ][MySQL Views](https://www.mysqltutorial.org/mysql-views-tutorial.aspx)
-	- [ ][MySQL Index](https://www.mysqltutorial.org/mysql-index/)
-	- [ ][MySQL Full-Text Search](https://www.mysqltutorial.org/mysql-full-text-search.aspx)
-- [ ][MySQL Programming Interfaces]()
-	- [X][MySQL Node.js](https://www.mysqltutorial.org/mysql-nodejs/) 
+
+- [ ] [MYSQL Tutorial](https://www.mysqltutorial.org/)
+	- [X] [Getting Started with MySQL](https://www.mysqltutorial.org/getting-started-with-mysql/)
+	- [X] [Basic MySQL Tutorial](https://www.mysqltutorial.org/basic-mysql-tutorial.aspx)
+	- [X] [MySQL Stored Procedures](https://www.mysqltutorial.org/mysql-stored-procedure-tutorial.aspx)
+	- [ ] [MySQL Triggers](https://www.mysqltutorial.org/mysql-triggers.aspx)
+	- [ ] [MySQL Views](https://www.mysqltutorial.org/mysql-views-tutorial.aspx)
+	- [ ] [MySQL Index](https://www.mysqltutorial.org/mysql-index/)
+	- [ ] [MySQL Full-Text Search](https://www.mysqltutorial.org/mysql-full-text-search.aspx)
+	- [X] [MySQL Node.js](https://www.mysqltutorial.org/mysql-nodejs/) 
 
 ## BE PORFICENT WIHT GIT AND GITHUB
 
