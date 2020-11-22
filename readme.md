@@ -1,11 +1,5 @@
 # LEARNING SOFTWARE ENGINEERING
 
-## learning FeathersJS
-- [ ][Quick start](https://docs.feathersjs.com/guides/basics/starting.html)
-- [ ][Generating an App](https://docs.feathersjs.com/guides/basics/generator.html)
-- [ ][Services](https://docs.feathersjs.com/guides/basics/services.html)
-- [ ][Hooks](https://docs.feathersjs.com/guides/basics/hooks.html)
-- [Authentication](https://docs.feathersjs.com/guides/basics/authentication.html)
 
 ## Learning JavaScript
 - [ ] [Complete JS Course]()
