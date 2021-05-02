@@ -20,7 +20,7 @@
     - [x] [Hooks at a Glance]
     - [x] [Using the State Hook]
     - [x] [Using the Effect Hook]
-    - [ ] [Rules of Hooks]
+    - [x] [Rules of Hooks]
     - [ ] [Building Your Own Hooks]
     - [ ] [Hooks API Reference]
 
