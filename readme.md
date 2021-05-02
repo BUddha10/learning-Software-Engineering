@@ -14,7 +14,7 @@
     - [ ] [Lists and Keys]
     - [x] [Forms]
     - [ ] [Lifting State up]
-    - [ ] [Composition vs Inheritance]
+    - [X] [Composition vs Inheritance]
     - [ ] [Thinking In React]
   - [ ] [Hooks](https://reactjs.org/docs/hooks-intro.html)
     - [x] [Hooks at a Glance]
