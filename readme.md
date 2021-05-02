@@ -33,8 +33,7 @@
   - [x] [JavaScript in the Browser DOM Manipulation and Events]()
   - [x] [Advanced JavaScript Object and Functions]()
   - [x] [Putting It All Together The Budget App Project]()
-  - [ ] [Next Generation JavaScript Intro to ES6]()
-  - [ ] [Asynchronous JavaScript Promises AsyncAwait andn AJAX]()
+  - [X] [Asynchronous JavaScript Promises AsyncAwait andn AJAX]()
   - [ ] [Modern JavaScript Using ES6 NPM Babel and Webpack]()
 
 ## Backend With Nodjs and Express
